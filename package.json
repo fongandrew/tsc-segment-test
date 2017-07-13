@@ -1,0 +1,15 @@
+{
+  "name": "tsc-segment-test",
+  "version": "1.0.0",
+  "description": "TypeScript Segment Test",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Andrew Fong <https://github.com/fongandrew>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/segment-analytics": "0.0.28",
+    "typescript": "^2.4.1"
+  }
+}

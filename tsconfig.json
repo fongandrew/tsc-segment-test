@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./out/",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
+
